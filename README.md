@@ -11,14 +11,20 @@ Through this project, I gained hands-on experience in:
 
 ## 🎯 Learning Outcomes
 ✅ Analyze different network topologies and plan proper subnetting
+
 ✅ Assign IP addresses & subnet masks correctly to avoid conflicts
+
 ✅ Define appropriate routes and gateways to ensure seamless communication
+
 ✅ Debug common networking errors and troubleshoot connectivity issues
 
 ## 🛠 How I Approached the Project
 1️⃣ Understanding the Requirements: Before jumping into configurations, I first analyzed the given network diagrams and requirements. I identified key subnets, host allocations, and routing needs.
+
 2️⃣ Subnet Calculations: Using CIDR notation and subnet masks, I divided networks appropriately, ensuring efficient IP allocation.
+
 3️⃣ Route Configuration: I manually set up routing tables, ensuring correct traffic flow between hosts and routers.
+
 4️⃣ Testing & Debugging: Finally, I reviewed all configurations, checked for misconfigured routes, and made necessary adjustments.
 
 ## 📂 Submitted Solution
